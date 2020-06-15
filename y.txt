@@ -40,8 +40,8 @@
 阳江综合,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/playlist.m3u8#https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_w1490668866_b3628000.m3u8
 阳江公共,https://live.yjtvw.com:8081/live/smil:yjtv2.smil/playlist.m3u8#https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_w680601579_b3628000.m3u8
 
-阳西综合,http://bsy.zb.yt.atianqi.com/app_4/yjyxzh.m3u8?bitrate=2000&f3key=5903d9c544844187e1765cd62e19f445
-阳西共公,http://player.ioioz.com/18/tv.php?tv=gdwx&id=gdyjyx2
+阳西综合,http://bsy.zb.yt.atianqi.com/app_4/yjyxzh.m3u8?bitrate=2000&f3key=5903d9c544844187e1765cd62e19f445&f3tm=1590591695
+阳西共公,http://bsy.zb.yt.atianqi.com/app_4/yjyxgg.m3u8?bitrate=2000&f3key=9b250843f5b9566b3261b5ccae071686&f3tm=1592236578
 鹤山综合,http://pili-live-rtmp.68.i2863.com/i2863-68/live_68_293669.m3u8
 江门综合,rtmp://tideweblive.jmtv.cn/tslsChannelLive/4x3T0dO/live
 江门公共,rtmp://tideweblive.jmtv.cn/tslsChannelLive/qzohscw/live
