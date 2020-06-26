@@ -11,11 +11,11 @@
 广东珠江,http://url.cn/J0Yh4Phy#http://www.dszbdq.cn/play/gdtv.php?id=CHTVB26
 
 珠江电影,http://url.cn/0TWKM3Uu
-广东新闻,http://url.cn/JJLPwvDF#http://www.dszbdq.cn/play/gdtv.php?id=CHTVB28
-广东公共,http://url.cn/iWbguDcD#http://www.dszbdq.cn/play/gdtv.php?id=CHTVB31
+广东新闻,http://www.dszbdq.cn/play/gdtv.php?id=CHTVB28
+广东公共,http://www.dszbdq.cn/play/gdtv.php?id=CHTVB31
 广东房产,http://szlive.grtn.cn/fcpd/sd/live.m3u8
-广东科教,http://url.cn/09zwBahm#http://www.dszbdq.cn/play/gdtv.php?id=CHTVPtvs1hd
-南方卫视,http://url.cn/n4Nq3JsK#http://www.dszbdq.cn/play/gdtv.php?id=CHTVPtvs2
+广东科教,http://www.dszbdq.cn/play/gdtv.php?id=CHTVPtvs1hd
+南方卫视,http://www.dszbdq.cn/play/gdtv.php?id=CHTVPtvs2
 南方卫视上星,http://61.58.60.230:9319/live/228.m3u8#http://www.dszbdq.cn/play/gxlt.html?id=30#http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227005/index.m3u8
 广东少儿,http://url.cn/fr1w8FaY#http://www.dszbdq.cn/play/gdtv.php?id=CHTVPtvs5
 广东影视,http://www.dszbdq.cn/play/gdtv.php?id=CHTVPtvs4
@@ -49,8 +49,6 @@
 开平综合,http://31355.hlsplay.aodianyun.com/tv_radio_31355/tv_channel_1434.m3u8
 开平生活,http://31355.hlsplay.aodianyun.com/tv_radio_31355/tv_channel_1435.m3u8
 肇庆综合,http://www.dszbdq.cn/play/gd.php?id=65#http://dslive.grtn.cn/zqzh/sd/live.m3u8#http://dslive.grtn.cn/zqzh/sd/live.m3u8?_upt=88abf5491585196372
-肇庆公共,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/sdqk1.m3u8?id=gdzqtv2
-
 东莞新闻,http://stream.sun0769.com/dgrtv1/mp4:tv1/index.m3u8?channel=1&t=1584628734&ttl=28800&key=863f99c30672244a76079accc4e0619e&wsSession=285cdd1b096297590e7a88e9-158462865120185&wsIPSercert=206c43220b0f830c1816ab563f758fea&wsMonitor=0#http://dslive.grtn.cn/dgzh/sd/live.m3u8
 东莞公共,http://stream.sun0769.com/dgrtv1/mp4:tv2/index.m3u8?channel=1&t=1580441535&ttl=28800&key=6ba4d265e5f29c98c821b38215322bd2&wsSession=04cf56f06f73ec6f00b575b3-158044155061172&wsIPSercert=573590fe678ba750bcf3d90d470222ef&wsMonitor=0
 汕头新闻综合,rtsp://183.58.12.204/PLTV/88888895/224/3221227425/10000100000000060000000003869066_0.smil?icpid=88888888
