@@ -15,7 +15,7 @@
 广东公共,http://www.dszbdq.cn/play/gdtv.php?id=CHTVB31
 广东房产,http://szlive.grtn.cn/fcpd/sd/live.m3u8
 广东科教,http://www.dszbdq.cn/play/gdtv.php?id=CHTVPtvs1hd
-南方卫视,http://www.dszbdq.cn/play/gdtv.php?id=CHTVPtvs2
+南方卫视,http://www.dszbdq.cn/play/gd.php?id=7
 南方卫视上星,http://61.58.60.230:9319/live/228.m3u8#http://www.dszbdq.cn/play/gxlt.html?id=30#http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227005/index.m3u8
 广东少儿,http://url.cn/fr1w8FaY#http://www.dszbdq.cn/play/gdtv.php?id=CHTVPtvs5
 广东影视,http://www.dszbdq.cn/play/gdtv.php?id=CHTVPtvs4
