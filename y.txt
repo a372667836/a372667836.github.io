@@ -62,7 +62,8 @@
 汕头公共频道,http://www.dszbdq.cn/play/st.php?id=st3
 湛江综合,http://dslive.grtn.cn/zjzh/sd/live.m3u8#http://120.237.237.11:8000/public/HDCH01/playlist.m3u8
 湛江公共,http://120.237.237.11:8000/public/HDCH02/playlist.m3u8
-珠海综合,http://dslive.grtn.cn/zhzh/sd/live.m3u8
+珠海综合,http://www.dszbdq.cn/play/gd.php?id=75#http://dslive.grtn.cn/zhzh/sd/live.m3u8
+珠海公共,http://www.dszbdq.cn/diao/zhggpd.php
 茂名综合,http://dslive.grtn.cn/mmzh/playlist.m3u8#http://125.88.17.7:800/hls-live/livepkgr/_definst_/mmzh/mmzh.m3u8
 茂名公共,http://125.88.17.7:800/hls-live/livepkgr/_definst_/mmgg/mmgg.m3u8
 电白综合,http://gddb.chinashadt.com:1935/live/video1.stream/playlist.m3u8#http://gddb.chinashadt.com:1935/live/video1.stream/chunklist_w138579333.m3u8
