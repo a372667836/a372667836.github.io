@@ -57,9 +57,9 @@
 肇庆综合,http://www.dszbdq.cn/play/gd.php?id=65#http://dslive.grtn.cn/zqzh/sd/live.m3u8#http://dslive.grtn.cn/zqzh/sd/live.m3u8?_upt=88abf5491585196372
 东莞新闻,http://stream.sun0769.com/dgrtv1/mp4:tv1/index.m3u8?channel=1&t=1584628734&ttl=28800&key=863f99c30672244a76079accc4e0619e&wsSession=285cdd1b096297590e7a88e9-158462865120185&wsIPSercert=206c43220b0f830c1816ab563f758fea&wsMonitor=0#http://dslive.grtn.cn/dgzh/sd/live.m3u8
 东莞公共,http://stream.sun0769.com/dgrtv1/mp4:tv2/index.m3u8?channel=1&t=1580441535&ttl=28800&key=6ba4d265e5f29c98c821b38215322bd2&wsSession=04cf56f06f73ec6f00b575b3-158044155061172&wsIPSercert=573590fe678ba750bcf3d90d470222ef&wsMonitor=0
-汕头新闻综合,rtsp://183.58.12.204/PLTV/88888895/224/3221227425/10000100000000060000000003869066_0.smil?icpid=88888888
-汕头经济生活,rtsp://183.58.12.204/PLTV/88888895/224/3221227428/10000100000000060000000003869069_0.smil?icpid=88888888
-汕头公共频道,rtsp://183.58.12.204/PLTV/88888895/224/3221227415/10000100000000060000000003869079_0.smil?icpid=88888888
+汕头新闻综合,http://www.dszbdq.cn/play/st.php?id=st1
+汕头经济生活,http://www.dszbdq.cn/play/st.php?id=st2
+汕头公共频道,http://www.dszbdq.cn/play/st.php?id=st3
 湛江综合,http://dslive.grtn.cn/zjzh/sd/live.m3u8#http://120.237.237.11:8000/public/HDCH01/playlist.m3u8
 湛江公共,http://120.237.237.11:8000/public/HDCH02/playlist.m3u8
 珠海综合,http://dslive.grtn.cn/zhzh/sd/live.m3u8
