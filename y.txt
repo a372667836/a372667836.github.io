@@ -91,7 +91,7 @@
 汕尾综合,http://24tl.qingk.cn/live/swsjzb1.flv#http://dslive.grtn.cn/swzh/sd/live.m3u8
 汕尾公共,http://24tl.qingk.cn/live/swsjzb2.flv
 中山综合,http://www.dszbdq.cn/play/gdzs.php?id=zh
-中山公共.http://www.dszbdq.cn/play/gdzs.php?id=gg
+中山公共,http://www.dszbdq.cn/play/gdzs.php?id=gg
 蛇口综合,http://218.17.99.211:5080/hls/ttsw6ccn.m3u8#http://218.17.99.211:82/hls/d4encs75.m3u8#http://gslb.otvstream.otvcloud.com/otv/skcc/live/channel37/index.m3u8?k=1087cb99936dda0ea2a091e00e59f34e&t=5EF5FB31&UID=BC9ACF76
 深圳卫视,http://www.dszbdq.cn/play/gdsz.php?id=1#http://cctvalih5ca.v.myalicdn.com/wstv/shenzhen_2/index.m3u8#http://39.134.65.162/PLTV/88888888/224/3221225668/index.m3u8
 深圳公共,http://www.dszbdq.cn/play/gdsz.php?id=4#http://gslb.otvstream.otvcloud.com/otv/skcc/live/channel52/index.m3u8?k=5d451bfe154536ab089ba65ad17aa8ca&t=5EF5FBD8&UID=86ECF83F
